@@ -5,17 +5,6 @@
     width="70%"
   />
 
-# Learning
-## Backend
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
-
-## Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
-
-## Tools
-[![My Tools](https://skillicons.dev/icons?i=github,vscode,figma,notion,discord,obsidian,ps,ai)](https://skillicons.dev)
-
-
 # My App
 
 ## ゆびさきnotes（セルフネイル投稿・管理アプリ）
@@ -46,6 +35,17 @@
 - 制作開始：2025年　11月 10日
 - MVPリリース：2026年　1月　6日
 - 本リリース予定日：2026年 3月末
+
+# Learning
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
+
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
+
+## Tools
+[![My Tools](https://skillicons.dev/icons?i=github,vscode,figma,notion,discord,obsidian,ps,ai)](https://skillicons.dev)
+
 
 <!--
 **YuK9966/YuK9966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
