@@ -9,7 +9,8 @@
 
 ## ゆびさきnotes（セルフネイル投稿・管理アプリ）
 <img width="400" alt="0206FIX_color_yubisakinotes_logo_w" src="https://github.com/user-attachments/assets/bbead366-2621-4a1b-8d7d-39c33a0ccdd2" /><br>
-https://yubisaki-notes.com/<br>
+AppURL：https://yubisaki-notes.com/<br>
+Repositories：https://github.com/YuK9966/Grad-work1<br>
 ※現在はMVPリリース段階として、本リリースに向けた改修を進めております。
 
 セルフネイラーのための、ネイル記録＋明日のネイルを提案するアプリです。
