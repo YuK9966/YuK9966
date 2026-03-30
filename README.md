@@ -36,7 +36,6 @@ Repositories：https://github.com/YuK9966/Grad-work1<br>
 ### 制作期間
 - 制作開始：2025年　11月 10日
 - MVPリリース：2026年　1月　6日
-- 本リリース予定日：2026年 3月末
 
 # Learning
 ## Backend
